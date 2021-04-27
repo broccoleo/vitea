@@ -1,0 +1,60 @@
+const allGoals = [
+  {
+    id: 1,
+    name: 'Learn basic HTML and CSS',
+    time: 6,
+    timeSpent: 6,
+    deadline: '02/26/2021',
+    dateCompleted: '02/22/2021',
+  },
+  {
+    id: 2,
+    name: 'Learn vanilla JavaScript',
+    time: 10,
+    timeSpent: 10,
+    deadline: '03/01/2021',
+    dateCompleted: '02/25/2021',
+  },
+  {
+    id: 3,
+    name: 'Finish React course',
+    time: 10,
+    timeSpent: 4,
+    deadline: '03/11/2021',
+    dateCompleted: '',
+  },
+  {
+    id: 4,
+    name: 'Create a simple React app',
+    time: 5,
+    timeSpent: 1.5,
+    deadline: '03/12/2021',
+    dateCompleted: '',
+  },
+  // {
+  //   id: 5,
+  //   name: 'Create a more complex React app',
+  //   time: 15,
+  //   timeSpent: 0,
+  //   deadline: '03/26/2021',
+  //   dateCompleted: '',
+  // },
+  {
+    id: 6,
+    name: 'Learn MongoDB',
+    time: 10,
+    timeSpent: 0.5,
+    deadline: '03/19/2021',
+    dateCompleted: '',
+  },
+  {
+    id: 7,
+    name: 'Create a MERN stack app',
+    time: 30,
+    timeSpent: 0,
+    deadline: '04/02/2021',
+    dateCompleted: '',
+  },
+]
+
+export default allGoals
